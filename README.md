@@ -7,6 +7,8 @@ for face detection is used DNN model,for gender gender_net.caffemodel and age ag
 Pre-trained Model Files Required:opencv_face_detector.pbtxt, opencv_face_detector_uint8.pb
 age_deploy.prototxt, age_net.caffemodel
 gender_deploy.prototxt, gender_net.caffemodel
+steps to run project: in command prompt install pip install suuporting libraries.
+run using .py extension.
 
 
 Note:caffemodels files are bigger in size so i will url code. i upload the these in google drive so you can access directly from drive itself. given the specific code to access the model
