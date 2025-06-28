@@ -9,5 +9,6 @@ age_deploy.prototxt, age_net.caffemodel
 gender_deploy.prototxt, gender_net.caffemodel
 
 
-Note:caffemodels files are bigger in size so i will url code.
+Note:caffemodels files are bigger in size so i will url code. i upload the these in google drive so you can access directly from drive itself. given the specific code to access the model
+the file name is model.py
 
